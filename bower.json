@@ -1,0 +1,20 @@
+{
+  "name": "ltxml",
+  "version": "0.0.0",
+  "description": "LINQ to XML for JavaScript",
+  "main": "dist/ltxml.js",
+  "authors": [
+    "EricWhite"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "linqjs": "~3.0.5"
+  }
+}
