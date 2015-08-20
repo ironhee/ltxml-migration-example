@@ -1,12 +1,26 @@
 # Install
 
-npm: ```npm install ltxml```
-bower: ```bower install ltxml```
+npm
+```
+npm install ltxml
+```
+
+bower
+```
+bower install ltxml
+```
 
 # Contribute
 
-build: ```npm run build```
-watch build: ```npm run watch```
+build
+```
+npm run build
+```
+
+watch build
+```
+npm run watch
+```
 
 # API
 
